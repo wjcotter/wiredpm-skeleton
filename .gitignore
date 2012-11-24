@@ -2,5 +2,7 @@
 /.htaccess
 /local-config.php
 /sql-dump-*.sql
+/content/uploads
+/content/upgrade
 /db-sync
 .DS_Store
